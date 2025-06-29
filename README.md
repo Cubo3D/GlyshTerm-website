@@ -1,2 +1,3 @@
-# GlyshTerm-website
-source code of the official GlyshTerm website
+# GlyshTerm website
+Código-fonte do site oficial do GlyshTerm()
+Sobre licença MIT
