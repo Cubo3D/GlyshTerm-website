@@ -41,25 +41,3 @@ font_size = 14
 #
 #
 #
-
-
-# Códigos ANSI para cores
-RESET = "\033[2m"
-RED = "\033[91m"
-GREEN = "\033[92m"
-YELLOW = "\033[93m"
-BLUE = "\033[94m"
-MAGENTA = "\033[38;2;255;255;255m"
-CYAN = "\033[38;2;255;250;0m"
-WHITE = "\033[38;2;255;150;0m"
-
-# Exemplo de uso
-print(f"{RED}Este texto é vermelho.{RESET}")
-print(f"{GREEN}Este texto é verde.{RESET}")
-print(f"{YELLOW}Este texto é amarelo.{RESET}")
-print(f"{BLUE}Este texto é azul.{RESET}")
-print(f"{MAGENTA}Este texto é magenta.{RESET}")
-print(f"{CYAN}Este texto é ciano.{RESET}")
-print(f"{WHITE}Este texto é branco.{RESET}")
-
-print(f"Este texto é {RED}vermelho{RESET} e este é {BLUE}azul{RESET}.")
