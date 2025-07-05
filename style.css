@@ -2,6 +2,7 @@ body{
     color: rgb(255, 255, 255);
     background-color: #1e1e1e;
     font-family: 'JetBrains Mono Nerd', monospace;
+    font-size: 14px;
     
     border: 10px solid rgb(160, 160, 160);
     padding: 20px;
