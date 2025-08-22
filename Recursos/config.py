@@ -1,17 +1,15 @@
 #
-# Arquivo de configuração do Glysh-Term
+# Arquivo de configuração do GlyshTerm
 #
 # Puxado automaticamente em "https://glysh-term.vercel.app/Recursos/config.py"
 #
 # Autor: Cubo3D
-# Data da ultima modificação:
-# Versão: 1.0
 #
-# Versão descontinuado: false
-#
+# Consulte a wiki para aprender a configurar
+# "https://glysh-term.vercel.app/wiki/config.html"
 
-# theme: ""
-
+# theme = ""
+cmd = ""
 
 # <<<<<<<<<<<
 # ^^ CORES ^^
@@ -28,7 +26,7 @@ border_color = 160, 160, 160
 # ^^ FONTES ^^
 # <<<<<<<<<<<<
 
-font = "JetBrains Mono Nerd Font"
+font = "JetBrainsMonoNerdFont"
 font_size = 14
 
 
@@ -39,7 +37,7 @@ font_size = 14
 #
 #
 # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#  Não suportado no momento, mas tentarei trazer na versão 1.5 ^
+#  Não suportado no momento, mas tentarei trazer na versão 1.5                      ^
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>^
 #
 #
